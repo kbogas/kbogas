@@ -14,7 +14,7 @@
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kbogas&theme=radical&no-frame=true&no-bg=false&margin-w=4) -->
-# [![SpotifyLogo](https://cdn3.emoji.gg/emojis/SpotifyLogo.png)](https://emoji.gg/emoji/SpotifyLogo) Recent Jam
+# :musical_note: Recent Jam
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=213nav7dnnruclotp7ax2b3sa)
 
 
